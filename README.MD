@@ -122,7 +122,7 @@ Advanced time-based analysis implemented using **Date_Dim**:
 - Product-level performance insights
 - Orders overview
 
-![Product Analysis]/productdetails.png)
+![Product Analysis](./productdetails.png)
 
 ---
 
